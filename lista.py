@@ -25,6 +25,6 @@ frutas.extend(['abacate', 'limão'])
 print(frutas)
 #pop por padrão apaga o ultimo da lista
 
-frutas.pop()
+frutas.pop(3)
 
 print(frutas)
