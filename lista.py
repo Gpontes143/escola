@@ -28,3 +28,5 @@ print(frutas)
 frutas.pop(3)
 
 print(frutas)
+
+frutas.remove(10)
