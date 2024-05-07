@@ -9,3 +9,5 @@ alt = float(input('Informe sua altura '))
 
 
 print(f'Olá {nome}!, Você nasceu em {2024 - idade}')
+
+print(f'Olá {nome}!, Você nasceu em {2024 - idade}')
